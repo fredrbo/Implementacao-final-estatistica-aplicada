@@ -1,6 +1,6 @@
 # Implementação Final Estatística Aplicada
-## Projeto de Estatística Aplicada para 4º Semestre de ADS na FATEC
-## Professor: Dawilmar
+### Projeto de Estatística Aplicada para 4º Semestre de ADS na FATEC
+### Professor: Dawilmar
 
 O intuito do projeto é reunir todo conhecimento do semestre e transformá-lo em código.
 No meu caso optei por utilizar a liguagem **Python**, pois já havia trabalhado com a biblioteca **Matplotlib** em outro projeto.
@@ -14,7 +14,7 @@ As entradas podem ser digitadas manualmente ou geradas aleatoriamente.
 Além dos cálculos, é possível gerar gráficos , sendo de linha, barra ou pizza. As entradas são manuais.
 
 
-##Requisitos 
+## Requisitos 
 
 - Python 3.8 (Precisa ser compatível com Matplotlib)
 
